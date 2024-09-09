@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
