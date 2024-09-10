@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
