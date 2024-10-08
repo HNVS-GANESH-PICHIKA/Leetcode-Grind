@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
+        //Not the best since not suitable for large input constraints
+
         //string num;
         // for(int i : digits){
         //     num.append(to_string(i));
@@ -15,6 +17,8 @@ public:
         // }
         // reverse(vec1.begin(), vec1.end());
         // return vec1;
+
+        //Optimal Approach
         int size_of_digits = digits.size();
         for(int i = size_of_digits - 1; i >= 0; i--){
             if(digits[i] < 9){
