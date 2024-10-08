@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/1013-fibonacci-number) |
