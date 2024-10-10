@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
