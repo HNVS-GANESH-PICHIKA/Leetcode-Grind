@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
