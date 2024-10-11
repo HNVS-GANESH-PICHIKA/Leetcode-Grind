@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -18,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
@@ -43,6 +45,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
