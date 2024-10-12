@@ -11,22 +11,26 @@
 | [0088-merge-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/1013-fibonacci-number) |
@@ -67,4 +71,9 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
