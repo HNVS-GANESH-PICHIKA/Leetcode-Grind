@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -88,6 +91,7 @@
 | ------- |
 | [0136-single-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
