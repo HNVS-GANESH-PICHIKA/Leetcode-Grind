@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0326-power-of-three) |
